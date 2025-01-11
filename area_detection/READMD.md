@@ -7,9 +7,9 @@ This is a UI area detection model based on the YOLOv5s architecture. The model h
 After training, the model achieved the following performance metrics:
 
 - **Training Loss**:
-  - Box Loss (box_loss): **91**
-  - Object Loss (obj_loss): **0.017337**
-  - Class Loss (cls_loss): **0.055515**
+  - Box Loss (box_loss): **0.017337**
+  - Object Loss (obj_loss): **0.055515**
+  - Class Loss (cls_loss): **0.0052495**
 
 - **Evaluation Metrics**:
   - Precision: **0.94809**
@@ -57,3 +57,9 @@ Please ensure the following dependencies are installed:
 2. **Test the model**:
    
    Open the `test.ipynb` file and run the code to test the trained model on test images.
+
+## train detail
+
+![results](https://github.com/user-attachments/assets/23524f1d-f67e-464e-a139-e55df53900b8)
+
+
